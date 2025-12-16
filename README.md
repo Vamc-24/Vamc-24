@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm  [Vamsi](/https://linktr.ee/bommusaivamsi/), a Data Science enthusiast.
+I'm  [Vamsi](https://linktr.ee/bommusaivamsi), a Data Science enthusiast.
 
 I train, build and deploy Machine learning models as your requirement.
 
@@ -8,9 +8,9 @@ I always aim to prevent overfitting ~ generalized model, to get good accuracy.
 
 My main tech stack is Python, SQL, PowerBI, SKlearn etc
 
-I've got a bunch of pinned projects,but my favorite is the [Startup profit prediction](/https://github.com/Vamc-24/Startup_profit-Linear-Regression/)
+I've got a bunch of pinned projects,but my favorite is the [Startup profit prediction](https://github.com/Vamc-24/Startup_profit-Linear-Regression)
 
-If you want to know how am i learning, Follow me on [linkedin](/https://www.linkedin.com/in/bommusaivamsi/) for regular updates.
+If you want to know how am i learning, Follow me on [linkedin](https://www.linkedin.com/in/bommusaivamsi) for regular updates.
 
 Fun fact: Excited to messed up with DATA
 
